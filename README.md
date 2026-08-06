@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Yashawantha H M
 
-<!--
-**Yashawantha26/Yashawantha26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer
 
-Here are some ideas to get you started:
+- 🎓 BE CSE Student
+- 🌱 Learning Full Stack Development
+- 🐍 Python
+- ☕ Java
+- 🌐 HTML, CSS, JavaScript
+- ⚡ Flask
+- 🗄️ MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+
+📧 yashuhmy@gmail.com
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/yashawantha-h-m-48813833a
+
+🐙 GitHub:
+https://github.com/Yashawantha26
+
+⭐ Thanks for visiting my profile!
