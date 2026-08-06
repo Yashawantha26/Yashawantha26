@@ -25,5 +25,12 @@ https://www.linkedin.com/in/yashawantha-h-m-48813833a
 
 🐙 GitHub:
 https://github.com/Yashawantha26
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashawantha26&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Yashawantha26&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashawantha26&layout=compact&theme=tokyonight)
 
 ⭐ Thanks for visiting my profile!
