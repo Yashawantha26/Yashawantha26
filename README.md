@@ -8,11 +8,6 @@
 🚀 Full Stack Developer • Python Developer • Java Developer • Open Source Learner
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Yashawantha+H+M;Full+Stack+Developer;Python+Developer;Java+Developer;Building+Creative+Projects;Always+Learning+New+Things" />
-</p>
-<div align="center">
-
 # 👋 Hi, I'm Yashawantha H M
 
 ### 💻 Full Stack Developer | CSE Student | Python Enthusiast | Open Source Learner
@@ -95,11 +90,11 @@ https://github.com/Yashawantha26
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yashawantha26&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Yashawantha26&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
 
@@ -114,6 +109,13 @@ https://github.com/Yashawantha26
 </p>
 
 ---
+## 💻 Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,flask,mysql,git,github,vscode,linux"/>
+
+</p>
 
 # 🚀 Featured Projects
 
