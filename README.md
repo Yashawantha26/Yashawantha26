@@ -29,9 +29,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Yashawantha26&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
 </p>
-<br>
-
-<h1 align="center"># 🚀 About Me
+# 🚀 About Me
 
 🎓 BE in Computer Science & Engineering
 
