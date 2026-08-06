@@ -33,4 +33,17 @@ https://github.com/Yashawantha26
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashawantha26&layout=compact&theme=tokyonight)
 
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Yashawantha26&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Yashawantha26&color=blue)
+
+## 💻 Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,flask,mysql,git,github,vscode" />
+</p>
 ⭐ Thanks for visiting my profile!
