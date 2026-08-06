@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Yashawantha%20H%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Python%20|%20Java%20|%20Web%20Developer&descAlignY=60&descSize=22" />
+</p>
+
+<h1 align="center">👋 Welcome to My GitHub</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer • Python Developer • Java Developer • Open Source Learner
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Yashawantha+H+M;Full+Stack+Developer;Python+Developer;Java+Developer;Building+Creative+Projects;Always+Learning+New+Things" />
+</p>
 <div align="center">
 
 # 👋 Hi, I'm Yashawantha H M
