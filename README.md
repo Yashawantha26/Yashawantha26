@@ -29,8 +29,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Yashawantha26&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
 </p>
-# 🚀 About Me
-
+<h2 align="center">🚀 About Me</h2>
 🎓 BE in Computer Science & Engineering
 
 🏫 Rajeev Institute of Technology, Hassan
