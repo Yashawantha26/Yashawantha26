@@ -1,4 +1,10 @@
-# Hi 👋 I'm Yashawantha H M
+<h1 align="center">Hi 👋, I'm Yashawantha H M</h1>
+
+<h3 align="center">Full Stack Developer | CSE Student | Python Enthusiast</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Python+Developer;Always+Learning+New+Technologies!" />
+</p># Hi 👋 I'm Yashawantha H M
 
 ## 💻 Full Stack Developer
 
