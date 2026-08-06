@@ -1,15 +1,33 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Yashawantha%20H%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Python%20|%20Java%20|%20Web%20Developer&descAlignY=60&descSize=22" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:38BDF8,50:60A5FA,100:2563EB&text=Yashawantha%20H%20M&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Python%20•%20Java%20•%20Web%20Developer&descSize=22&descAlignY=58&animation=fadeIn" />
 </p>
 
-<h1 align="center">👋 Welcome to My GitHub</h1>
+<h1 align="center">Hi 👋 I'm Yashawantha H M</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer • Python Developer • Java Developer • Open Source Learner
+💻 Full Stack Developer • Python Developer • Java Developer • Open Source Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Yashawantha+H+M;Full+Stack+Developer;Python+Developer;Java+Developer;Building+Creative+Projects;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile;Building+Modern+Web+Applications;Python+%7C+Java+%7C+Flask+%7C+JavaScript;Always+Learning+New+Technologies;Let's+Build+Something+Amazing!" />
+</p>
+
+<p align="center">
+<a href="mailto:yashuhmy@gmail.com">
+<img src="https://img.shields.io/badge/Email-yashuhmy%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Yashawantha26">
+<img src="https://img.shields.io/badge/GitHub-Yashawantha26-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yashawantha-h-m-48813833a">
+<img src="https://img.shields.io/badge/LinkedIn-Yashawantha_H_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Yashawantha26&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
 </p>
 # 👋 Hi, I'm Yashawantha H M
 
